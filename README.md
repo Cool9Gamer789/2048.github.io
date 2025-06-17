@@ -10,3 +10,5 @@ The goal of 2048 is to slide numbered tiles on a grid to combine them and create
 4.  **Winning:** The game is won when you successfully create a **2048 tile**.
 5.  **Losing:** The game is lost when the grid is full and there are no more possible moves (i.e., no adjacent tiles with the same number that can be merged).
 
+## Demo
+* **Demo Link:** 
