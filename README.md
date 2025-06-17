@@ -11,4 +11,8 @@ The goal of 2048 is to slide numbered tiles on a grid to combine them and create
 5.  **Losing:** The game is lost when the grid is full and there are no more possible moves (i.e., no adjacent tiles with the same number that can be merged).
 
 ## Demo
-* **Demo Link:** 
+* **Demo Link:** https://cool9gamer789.github.io/2048.github.io/
+
+## Tutorial
+* **Tutorial Link:** https://www.youtube.com/watch?v=XM2n1gu4530
+    * All credits go to [Kenny Yip Coding](https://www.kennyyipcoding.com/)
